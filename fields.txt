@@ -1,0 +1,36 @@
+Area of Interest: dropdown, options not visible, required
+Full Name: text, required
+Date of Birth: date
+Email ID: email, required
+Contact Number: text, required
+Current Location: text, required
+About Yourself: textarea, required
+Availability: textarea, required
+How did you hear about us?: dropdown, options not visible
+If referred by UWB employee, please mention name: text
+Enter Security Code: captcha
+Given the instructions, here are sample inputs for the fields described:
+
+1. **Area of Interest:** [Dropdown selection not visible, but assuming options like 'Technology', 'Marketing', 'Finance', etc.]
+   - Selected Option: Technology
+
+2. **Full Name:** John Doe
+
+3. **Date of Birth:** 1990-05-15
+
+4. **Email ID:** johndoe@example.com
+
+5. **Contact Number:** +1234567890
+
+6. **Current Location:** New York, USA
+
+7. **About Yourself:** I am a software engineer with over 5 years of experience in developing scalable web applications. My expertise lies in the full software development lifecycle, from concept through delivery of next-generation applications and customizable solutions.
+
+8. **Availability:** I am available to start working on new projects from the beginning of next month. My preferred working hours are from 9 AM to 5 PM, Monday to Friday.
+
+9. **How did you hear about us:** [Dropdown selection not visible, but assuming options like 'Internet', 'Friend', 'Advertisement', etc.]
+   - Selected Option: Internet
+
+10. **If referred by UWB employee, please mention name:** Emily Clark
+
+11. **Enter Security Code:** [Captcha cannot be simulated as it requires seeing and interpreting a dynamically generated code. Assume a placeholder like 'XYZ123' is entered, which would be replaced by the actual captcha code displayed to the user.]
